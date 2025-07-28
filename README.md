@@ -1,18 +1,10 @@
 Hi. I'm a full stack engineer and reverse engineer from Greece.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust logo"  />
-  <img width="12" />
-  <img src="https://binary.ninja/icons/android-chrome-512x512.png" height="30" alt="Binary Ninja logo"  />
-  <img width="12" />
-</div>
+Donations: https://ko-fi.com/chefkiss BTC: `bc1qgu56kptepex2csuzl5nhzc4vxuj8c6ggjzhcem`
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <br clear="both" />
-
 
 <div align="center">
   <div align="left">
