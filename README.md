@@ -1,4 +1,13 @@
-Hi. I'm a full stack engineer and reverse engineer from Greece.
+Hi. I'm a full stack  and reverse engineer from Greece.
+
+I have a vocational training diploma in Software Engineering and certification as an executive in operational planning and business development.
+
+## Active Projects
+
+- Inferno: Apple Silicon emulation, with various tools.
+- Various Hackintosh additions and improvements, such as AMD iGPU support (NootedRed).
+
+See https://chefkiss.dev/ for more information.
 
 ## Support me
 
@@ -9,12 +18,8 @@ Hi. I'm a full stack engineer and reverse engineer from Greece.
 
 ----
 
-<div align="center">
-  <div align="left">
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </div>
-  <div align="right">
-    <img height="150" src="https://raw.githubusercontent.com/VisualEhrmanntraut/VisualEhrmanntraut/master/Aperture.png"  />
-  </div>
-</div>
+<p>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="right" height="150" src="https://raw.githubusercontent.com/VisualEhrmanntraut/VisualEhrmanntraut/master/Aperture.png">
+</p>
